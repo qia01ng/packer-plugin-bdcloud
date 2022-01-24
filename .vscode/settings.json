@@ -1,0 +1,46 @@
+{
+    "gotoSymbolStack.currentStackPosition": 4,
+    "gotoSymbolStack.maxStackPosition": 5,
+    "gotoSymbolStack.filePositionInfo": [
+        {
+            "textFile": "/home/work/workspace/packer-plugin-alicloud/builder/ecs/builder.go",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 45,
+                "character": 40
+            }
+        },
+        {
+            "textFile": "/home/work/workspace/golang/pkg/mod/github.com/hashicorp/hcl/v2@v2.11.1/hcldec/spec.go",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 47,
+                "character": 28
+            }
+        },
+        {
+            "textFile": "/home/work/workspace/packer-plugin-alicloud/builder/ecs/builder.go",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 45,
+                "character": 76
+            }
+        },
+        {
+            "textFile": "/home/work/workspace/packer-plugin-alicloud/builder/ecs/builder.hcl2spec.go",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 172,
+                "character": 48
+            }
+        },
+        {
+            "textFile": "/home/work/workspace/packer-plugin/packer-plugin-bdcloud/builder/ecs/image_config.go",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 105,
+                "character": 35
+            }
+        }
+    ]
+}
