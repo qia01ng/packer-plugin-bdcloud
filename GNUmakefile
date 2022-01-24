@@ -1,4 +1,4 @@
-NAME=alicloud
+NAME=bdcloud
 BINARY=packer-plugin-${NAME}
 
 COUNT?=1
