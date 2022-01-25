@@ -1,4 +1,4 @@
-module github.com/hashicorp/packer-plugin-bdcloud
+module github.com/qia01ng/packer-plugin-bdcloud
 
 go 1.17
 
@@ -11,6 +11,5 @@ require (
 
 require (
 	github.com/baidubce/bce-sdk-go v0.9.103
-	github.com/hashicorp/packer-plugin-alicloud v1.0.1
 	icode.baidu.com/baidu/lsqm-iam/sdk-go v0.0.0-20210414081528-e2c90b124669
 )

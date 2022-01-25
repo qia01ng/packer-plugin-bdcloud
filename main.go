@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	ecsbuilder "github.com/hashicorp/packer-plugin-alicloud/builder/ecs"
-	version "github.com/hashicorp/packer-plugin-alicloud/version"
 	"github.com/hashicorp/packer-plugin-sdk/plugin"
+	ecsbuilder "github.com/qia01ng/packer-plugin-bdcloud/builder/ecs"
+	version "github.com/qia01ng/packer-plugin-bdcloud/version"
 )
 
 func main() {
